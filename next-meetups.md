@@ -1,6 +1,6 @@
 # A list of the next meetups
 
-- **March 2017**  [more info](https://www.meetup.com/JSSarajevo/events/236899349/)
+- **March 2017**  [more info](https://www.meetup.com/JSSarajevo/events/238027495/)
  * [Naida Zekic](https://github.com/nzekic) talks about service workers
  * [Vedad Sose](https://github.com/vedadsose) talks about intro to React Native
  * [Senad Uka](https://github.com/senaduka) talks about Web VR
